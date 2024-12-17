@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c1b1a20-0190-4526-a99f-530ef89ae5ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baidocjavascript/js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7-Introduction/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7-Introduction/download.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7-Introduction/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module1/lesson6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taobangcoban.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test_file.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7c1b1a20-0190-4526-a99f-530ef89ae5ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +73,7 @@
       <workItem from="1733832154563" duration="4286000" />
       <workItem from="1733836642158" duration="69000" />
       <workItem from="1733841289700" duration="34000" />
-      <workItem from="1734005662206" duration="5900000" />
+      <workItem from="1734005662206" duration="6207000" />
     </task>
     <servers />
   </component>
